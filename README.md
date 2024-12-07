@@ -17,13 +17,6 @@ This platform is a cloud-native microservices-based solution for real-time trans
 
 ---
 
-## 📑 **Table of Contents**
-1. [Code](#code)  
-2. [Documentation](#documentation)  
-3. [Screenshots](#screenshots)  
-
----
-
 ## 🌟 **Features**
 - Real-time English-to-Arabic and Arabic-to-English translation.
 - Customizable summarization styles (formal, informal, technical).

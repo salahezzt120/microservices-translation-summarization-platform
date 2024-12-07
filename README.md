@@ -73,11 +73,11 @@ This platform is a cloud-native microservices-based solution for real-time trans
    docker run -p 8000:8000 ar2en-service
 
 ---
-   
+
 ## 📑 **Documentation**
 For detailed API documentation, access FastAPI's Swagger UI:
-EN2AR-Service: http://localhost:8000/docs
-AR2EN-Service: http://localhost:8000/docs
+- EN2AR-Service: http://localhost:8000/docs
+- AR2EN-Service: http://localhost:8000/docs
 
 ---
 

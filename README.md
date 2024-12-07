@@ -13,7 +13,7 @@ This platform is a cloud-native microservices-based solution for real-time trans
 ---
 
 ## 🖼️ **Banner**
-![Translation Platform Banner](images/banner.png) *(Replace this with the path to your banner image)*
+![Translation Platform Banner](banner12.png) *(Replace this with the path to your banner image)*
 
 ---
 
@@ -85,4 +85,4 @@ AR2EN-Service: http://localhost:8000/docs
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   https://github.com/salahezzt120/Java-Chatroom-Application.git
+   https://github.com/salahezzt120/microservices-translation-summarization-platform.git

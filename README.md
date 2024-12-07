@@ -13,7 +13,7 @@ This platform is a cloud-native microservices-based solution for real-time trans
 ---
 
 ## 🖼️ **Banner**
-![Translation Platform Banner](banner12.png) *(Replace this with the path to your banner image)*
+![Translation Platform Banner](banner12.png)
 
 ---
 
